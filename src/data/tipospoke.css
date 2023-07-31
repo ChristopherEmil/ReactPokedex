@@ -1,0 +1,177 @@
+/* Tipo acero	#CCCCCC	rgb(168,168,192)
+Tipo agua	#B0E2FF	rgb(56,153,248)
+Tipo bicho	#99CC33	rgb(168,184,32)
+Tipo dragón	#AB82FF	rgb(160,80,56)
+Tipo eléctrico	#FFD700	rgb(248,208,48)
+Tipo fantasma	#778899	rgb(96,96,176)
+Tipo fuego	#FF7F00	rgb(240,80,48)
+Tipo hada	#FFB0FF	rgb(231,159,231)
+Tipo hielo	#ADD8E6	rgb(88,200,224)
+Tipo lucha	#FF6A6A	rgb(160,80,56)
+Tipo normal	#DDCCAA	rgb(168,160,144)
+Tipo planta	#99FF66	rgb(120,200,80)
+Tipo psíquico	#FFB5C5	rgb(248,112,160)
+Tipo roca	#CD853F	rgb(184,160,88)
+Tipo siniestro	#A9A9A9	rgb(122,88,72)
+Tipo tierra	#DEB887	rgb(234,214,164)
+Tipo veneno	#CC88BB	rgb(176,88,160)
+Tipo volador	#BAAAFF	rgb(152,168,240) */
+.typenormal{
+    background-color: #DDCCAA;
+}
+.typefighting{
+    background-color: #FF6A6A;
+}
+.typeflying{
+    background-color: #BAAAFF;
+}
+.typepoison{
+    background-color: #CC88BB	;
+}
+.typeground{
+    background-color: #DEB887	;
+}
+.typerock{
+    background-color:#CD853F	;
+}
+.typebug{
+    background-color:#99CC33	;
+}
+.typeghost{
+    background-color:#778899	;
+}
+.typesteel{
+    background-color: #CCCCCC	;
+}
+.typefire{
+    background-color: #FF7F00;
+}
+.typewater{
+    background-color: #B0E2FF;
+}
+.typegrass{
+    background-color: #99FF66;
+}
+.typeelectric{
+    background-color: #FFD700;
+}
+.typepsychic{
+    background-color: #FFB5C5;
+}
+.typeice{
+    background-color: #ADD8E6;
+}
+.typedragon{
+    background-color: #AB82FF;
+}
+.typedark{
+    background-color: #A9A9A9;
+}
+.typefairy{
+    background-color: #FFB0FF;
+}
+/* .typeunknown{
+    background-color: #FF6A6A;
+}
+.typeshadow{
+    background-color: #FF6A6A;
+} */
+
+.imggrass{
+ 
+    padding: 0;
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20170114100444/Tipo_planta.gif') ;
+    background-repeat: no-repeat;
+    
+  }
+  .imgpoison{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/1/10/latest/20191118232220/Tipo_veneno.gif') ;
+    background-repeat: no-repeat;
+  }
+
+  .imgfire{
+ 
+    padding: 0;
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/c/ce/latest/20170114100331/Tipo_fuego.gif') ;
+    background-repeat: no-repeat;
+    
+  }
+  .imgpsteel{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/d/d9/latest/20191118232245/Tipo_acero.gif') ;
+    background-repeat: no-repeat;
+  }
+  .imgwater{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/9/94/latest/20191118232235/Tipo_agua.gif') ;
+    background-repeat: no-repeat;
+  }
+
+  .imgbug{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/f/fe/latest/20191118232226/Tipo_bicho.gif') ;
+    background-repeat: no-repeat;
+  }
+  .imgdragon{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/0/01/latest/20170114100154/Tipo_drag%C3%B3n.gif') ;
+    background-repeat: no-repeat;
+  }
+  .imgelectric{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/1/1b/latest/20170114100155/Tipo_el%C3%A9ctrico.gif') ;
+    background-repeat: no-repeat;
+  }
+  .imgghost{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/4/47/latest/20170114100329/Tipo_fantasma.gif') ;
+    background-repeat: no-repeat;
+  }
+  .imgfairy{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/b/bc/latest/20170114100332/Tipo_hada.gif') ;
+    background-repeat: no-repeat;
+  }
+  .imgice{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/4/40/latest/20170114100333/Tipo_hielo.gif') ;
+    background-repeat: no-repeat;
+  }
+  .imgfighting{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20170114100336/Tipo_lucha.gif') ;
+    background-repeat: no-repeat;
+  }
+  .imgnormal{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/3/32/latest/20170114100442/Tipo_normal.gif') ;
+    background-repeat: no-repeat;
+  }
+  .imgpsychic{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/1/15/latest/20170114100445/Tipo_ps%C3%ADquico.gif') ;
+    background-repeat: no-repeat;
+  }
+  .imgrock{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/e/e0/latest/20170114100446/Tipo_roca.gif') ;
+    background-repeat: no-repeat;
+  }
+  .imgdark{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/8/82/latest/20191118232327/Tipo_siniestro.gif') ;
+    background-repeat: no-repeat;
+  }
+  .imgground{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/1/1d/latest/20191118232216/Tipo_tierra.gif') ;
+    background-repeat: no-repeat;
+  }
+  .imgflying{
+    margin:auto;
+    background-image:url('https://images.wikidexcdn.net/mwuploads/wikidex/e/e1/latest/20191118232224/Tipo_volador.gif') ;
+    background-repeat: no-repeat;
+  }
